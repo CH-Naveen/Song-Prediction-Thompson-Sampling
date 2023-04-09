@@ -1,4 +1,4 @@
-# Song-Prediction-Using-Machine-Learning
+# Song-Prediction-Thompson-Sampling
 Song Prediction using Thompson Sampling Algorithm in Reinforcement Learning
 
 
