@@ -37,7 +37,7 @@ class SongPredict:
             if reward == 1:
                 numbers_of_rewards_1[song] = numbers_of_rewards_1[song] + 1
             else:
-                numbers_of_rewards_1[song] = numbers_of_rewards_1[song] + 1 
+                numbers_of_rewards_0[song] = numbers_of_rewards_0[song] + 1 
                 
             total_reward = total_reward + reward
 
